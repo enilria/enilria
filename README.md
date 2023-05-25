@@ -1,6 +1,6 @@
 ---
 
-### fish:	: About me: 
+### :fish:	: About me: 
 - test
 - :lotus_position_man:	Loves running, cycling, scuba diving, freediving, hiking mountains, yoga
 
