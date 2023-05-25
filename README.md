@@ -3,7 +3,8 @@
 ### :man_student:	About me: 
 - :school:	Current Gdipsa student in NUS (Computer Systems)
 - :mechanical_arm:	Previously a mechanical engineer
-- :lotus_position_man:	Loves running, cycling, scuba diving, freediving, hiking mountains, yoga
+- :speaking_head:	Actually loves public speaking 
+- :lotus_position_man:	I enjoy running, cycling, scuba diving, freediving, hiking mountains, and yoga
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
