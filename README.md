@@ -5,6 +5,11 @@
 - :mechanical_arm:	Previously a mechanical engineer
 - :speaking_head:	Actually loves public speaking 
 - :lotus_position_man:	I enjoy running, cycling, scuba diving, freediving, hiking mountains, and yoga
+- :envelope_with_arrow:	You may contact me here <div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <div>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
