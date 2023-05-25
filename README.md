@@ -1,7 +1,8 @@
 ---
 
-### :man_student:	: About me: 
-- test
+### :man_student:	About me: 
+- :school:	Current Gdipsa student in NUS (Computer Systems)
+- :mechanical_arm:	Previously a mechanical engineer
 - :lotus_position_man:	Loves running, cycling, scuba diving, freediving, hiking mountains, yoga
 
 ---
