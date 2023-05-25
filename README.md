@@ -1,7 +1,7 @@
 ---
 
 ### :man_student:	About me: 
-- :school:	Current Gdipsa student in NUS(:singapore:)(Computer Systems) 
+- :school:	Currently taking a Computer Systems course in NUS(:singapore:) 
 - :mechanical_arm:	Previously a mechanical engineer
 - :speaking_head:	Actually loves public speaking & presentation
 - :lotus_position_man:	I enjoy running, scuba diving, freediving, hiking mountains, and yoga
