@@ -5,7 +5,7 @@
 - :mechanical_arm:	Previously a mechanical engineer
 - :speaking_head:	Actually loves public speaking 
 - :lotus_position_man:	I enjoy running, scuba diving, freediving, hiking mountains, and yoga
-- :envelope_with_arrow:	You may contact me here [![Linkedin Badge](https://img.shields.io/badge/-ky-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/kytey/))
+
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
