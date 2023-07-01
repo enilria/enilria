@@ -5,7 +5,7 @@
 - :cloud: Interested in cloud tech!
 - :mechanical_arm:	Previously a mechanical engineer
 - :speaking_head:	Enjoys public speaking & presentation
-- :lotus_position_man: Also running, scuba diving, freediving, hiking mountains, and yoga
+- :lotus_position: Also running, scuba diving, freediving, hiking mountains, and yoga
 
 
 ---
