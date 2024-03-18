@@ -1,8 +1,7 @@
 ---
 
 ### :man_student:	About me: 
-- :school:	Currently taking a Computer Systems course in NUS(:singapore:)
-- :cloud: Interested in cloud tech!
+- :cloud: Cloud Engineer with AWS 
 - :mechanical_arm:	Previously a mechanical engineer
 - :speaking_head:	Enjoys public speaking & presentation
 - :lotus_position: Also running, scuba diving, freediving, hiking mountains, and yoga
